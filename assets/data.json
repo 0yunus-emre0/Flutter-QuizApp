@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Which planet is the largest in our Solar System?",
+        "choices": ["Mars", "Jupiter", "Earth", "Venus"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "choices": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which animal cannot fly?",
+        "choices": ["Bird", "Bat", "Bee", "Cat"],
+        "answerIndex": 3
+    },
+    {
+        "question": "What is the tallest mountain on Earth?",
+        "choices": ["Mount Everest", "K2", "Mount Makalu", "Mount Annapurna"],
+        "answerIndex": 0
+    },
+    {
+        "question": "How many groups does the blood type system consist of?",
+        "choices": ["2", "3", "4", "5"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Who is the creator of the Mona Lisa painting?",
+        "choices": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Salvador Dalí"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the highest mountain in Turkey?",
+        "choices": ["Mount Erciyes", "Mount Ağrı", "Mount Uludağ", "Mount Kaçkar"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which colors mix to create the color purple?",
+        "choices": ["Yellow and Red", "Black and White", "Blue and Yellow", "Green and Orange"],
+        "answerIndex": 2
+    },
+    {
+        "question": "How many hearts are there in the human body?",
+        "choices": ["1", "2", "3", "4"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which planet's name is associated with the Roman god of the sea?",
+        "choices": ["Mercury", "Venus", "Neptune", "Uranus"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Which animal is not a mammal?",
+        "choices": ["Cat", "Dog", "Bird", "Horse"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Which group of people most closely resemble each other?",
+        "choices": ["Identical twins", "Mother and daughter", "Father and son", "Cousins"],
+        "answerIndex": 0
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choices": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the longest river in Turkey?",
+        "choices": ["Kızılırmak", "Sakarya", "Yeşilırmak", "Euphrates"],
+        "answerIndex": 0
+    },
+    {
+        "question": "How many seconds are there in a minute?",
+        "choices": ["30", "45", "60", "90"],
+        "answerIndex": 2
+    },
+    {
+        "question": "In which field was Albert Einstein famous for his work?",
+        "choices": ["Medicine", "Engineering", "Physics", "Literature"],
+        "answerIndex": 2
+    },
+    {
+        "question": "What is the most populous city in Turkey?",
+        "choices": ["Ankara", "Istanbul", "Izmir", "Bursa"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choices": ["Nile River", "Amazon River", "Mississippi River", "Yangtze River"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which planet is the smallest in our Solar System?",
+        "choices": ["Mars", "Jupiter", "Earth", "Pluto"],
+        "answerIndex": 3
+    },
+    {
+        "question": "What is the organ with the highest number in the human body?",
+        "choices": ["Brain", "Heart", "Skin", "Liver"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "choices": ["China", "Japan", "South Korea", "Thailand"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the chemical symbol for the element gold?",
+        "choices": ["Ag", "Au", "Pt", "Hg"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+        "choices": ["Jane Austen", "Emily Bronte", "Charlotte Bronte", "Louisa May Alcott"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which artist painted 'The Starry Night'?",
+        "choices": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Michelangelo"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choices": ["Brain", "Heart", "Skin", "Liver"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Which city is known as the 'Eternal City'?",
+        "choices": ["Paris", "Rome", "Athens", "Florence"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "choices": ["Cherry blossom", "Rose", "Tulip", "Lily"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which scientist is known for the theory of relativity?",
+        "choices": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "choices": ["Mars", "Jupiter", "Saturn", "Neptune"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who is the author of the 'Harry Potter' book series?",
+        "choices": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+        "answerIndex": 1
+    },
+    {
+        "question": "What is the chemical symbol for the element oxygen?",
+        "choices": ["O", "H", "C", "N"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "choices": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Which country is home to the famous landmark, the Taj Mahal?",
+        "choices": ["India", "China", "Egypt", "Brazil"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which instrument has black and white keys and is often associated with classical music?",
+        "choices": ["Violin", "Flute", "Piano", "Trumpet"],
+        "answerIndex": 2
+    },
+    {
+        "question": "Who is credited with discovering the theory of evolution?",
+        "choices": ["Isaac Newton", "Charles Darwin", "Gregor Mendel", "Marie Curie"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "choices": ["Africa", "Asia", "South America", "Antarctica"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which famous scientist developed the theory of gravity?",
+        "choices": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "choices": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Anton Chekhov"],
+        "answerIndex": 0
+    },
+    {
+        "question": "What is the chemical symbol for the element iron?",
+        "choices": ["Ir", "Fe", "Au", "Cu"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which city is known as the 'City of Love'?",
+        "choices": ["Paris", "Rome", "Venice", "Florence"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who is the author of the novel 'To Kill a Mockingbird'?",
+        "choices": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+        "answerIndex": 0
+    },
+    {
+        "question": "What is the largest planet in our Solar System?",
+        "choices": ["Mars", "Jupiter", "Earth", "Venus"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of Fire and Ice'?",
+        "choices": ["Iceland", "Greenland", "Norway", "Sweden"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who is the artist of the famous painting 'The Last Supper'?",
+        "choices": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Which musical instrument is often called the 'King of Instruments'?",
+        "choices": ["Violin", "Piano", "Guitar", "Drums"],
+        "answerIndex": 1
+    },
+    {
+        "question": "Who is the Greek god of the sea?",
+        "choices": ["Zeus", "Hades", "Poseidon", "Apollo"],
+        "answerIndex": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element sodium?",
+        "choices": ["Na", "So", "K", "Mg"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Which city is known as the 'City of Light'?",
+        "choices": ["Paris", "Rome", "London", "New York"],
+        "answerIndex": 0
+    },
+    {
+        "question": "Who is the author of the novel '1984'?",
+        "choices": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+        "answerIndex": 0
+    },
+    {
+        "question": "What is the chemical symbol for the element carbon?",
+        "choices": ["Ca", "C", "Co", "Cr"],
+        "answerIndex": 1
+    }
+]
