@@ -1,6 +1,6 @@
-# first_app
+# Quiz Application
 
-A new Flutter project.
+A Flutter project that include quiz system. That application have a question pool and generates random 10 questions from that question pool.You can check pool in data.json file. If you have a problem or suggestion about project you can get contact with me.
 
 ## Getting Started
 
